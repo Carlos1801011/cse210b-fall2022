@@ -1,0 +1,17 @@
+body {
+    background: #0cebeb; 
+    background: -webkit-linear-gradient(to right, #29ffc6, #20e3b2, #0cebeb); 
+    background: linear-gradient(to right, #29ffc6, #20e3b2, #0cebeb); 
+}
+
+.badge {
+    font-size: 25px;
+}
+
+footer {
+    display:block;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
